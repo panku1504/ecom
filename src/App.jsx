@@ -26,7 +26,7 @@ import AdminBrandPage from './Pages/Admin/Brand/AdminBrandPage'
 import AdminBrandCreatePage from './Pages/Admin/Brand/AdminBrandCreatePage'
 import AdminBrandUpdatePage from './Pages/Admin/Brand/AdminBrandUpdatePage'
 
-import AdminFeaturePage from './Pages/Admin/feature/AdminFeaturePage'
+import AdminFeaturePage from './Pages/Admin/feature/AdminFeaturePage.jsx'
 import AdminFeatureCreatePage from './Pages/Admin/feature/AdminFeatureCreatePage'
 import AdminFeatureUpdatePage from './Pages/Admin/feature/AdminFeatureUpdatePage'
 
