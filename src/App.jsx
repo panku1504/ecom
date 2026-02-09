@@ -26,9 +26,9 @@ import AdminBrandPage from './Pages/Admin/Brand/AdminBrandPage'
 import AdminBrandCreatePage from './Pages/Admin/Brand/AdminBrandCreatePage'
 import AdminBrandUpdatePage from './Pages/Admin/Brand/AdminBrandUpdatePage'
 
-import AdminFeaturePage from './Pages/Admin/feature/AdminFeaturePage'
-import AdminFeatureCreatePage from './Pages/Admin/feature/AdminFeatureCreatePage'
-import AdminFeatureUpdatePage from './Pages/Admin/feature/AdminFeatureUpdatePage'
+import AdminFeaturePage from './Pages/Admin/Feature/AdminFeaturePage'
+import AdminFeatureCreatePage from './Pages/Admin/Feature/AdminFeatureCreatePage'
+import AdminFeatureUpdatePage from './Pages/Admin/Feature/AdminFeatureUpdatePage'
 
 import AdminFaqPage from './Pages/Admin/Faq/AdminFaqPage'
 import AdminFaqCreatePage from './Pages/Admin/Faq/AdminFaqCreatePage'
