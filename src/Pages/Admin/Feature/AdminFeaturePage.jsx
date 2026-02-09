@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom'
 
 import $ from 'jquery'; // import jquery
-import "datatables.net-dt/css/dataTables.dataTables.min.css";//import data table styles
+import "datatables.net-dt/css/dataTables.dataTables.min.css"; //import data table styles
 import 'datatables.net';
 
 import Hero from '../../../Components/Hero'
