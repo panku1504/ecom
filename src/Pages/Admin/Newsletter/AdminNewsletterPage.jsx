@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
 
 import $ from 'jquery'; // import jquery
-import 'datatables.net-dt/css/datatables.datatables.min.css'; //import data table styles
+import 'datatables.net-dt/css/dataTables.dataTables.min.css'; //import data table styles
 import 'datatables.net';
 
 import Hero from '../../../Components/Hero'
